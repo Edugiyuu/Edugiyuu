@@ -1,5 +1,5 @@
 # Como vai?
-<p align="center"> Eu me chamo Eduardo, mas pode me chamar de só de edu <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F876227534767927326.gif%3Fv%3D1&w=64&q=75" width="25" align="right"></img><img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F876227534767927326.gif%3Fv%3D1&w=64&q=75" width="25" align="left"></img></p>
+<p align="center"> Eu me chamo Eduardo, mas pode me chamar de só de edu </p>
 
 ## Links:
    <a href="https://www.linkedin.com/in/eduardo-santos-lima-da-paz-4a024125b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
